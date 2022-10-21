@@ -1,0 +1,19 @@
+---
+tags: []
+layout: input_bottom
+editor: multiple_choice
+type: problem
+extra_visible: false
+language: text
+manual_evaluation: false
+choices:
+- value: Tres empanadas
+  checked: false
+- value: El código de un programa en Ruby
+  checked: true
+- value: El código de un programa en Java
+  checked: true
+- value: Un `txt` con una lista de compras
+  checked: true
+- value: Un video de los Simuladores
+  checked: false
