@@ -1,1 +1,0 @@
-¡No te olvides! Siempre al final hay que hacer commit :smile:

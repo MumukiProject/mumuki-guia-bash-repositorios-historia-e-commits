@@ -5,6 +5,7 @@ layout: input_bottom
 editor: 0
 type: interactive
 extra_visible: false
+teacher_info: ''
 manual_evaluation: false
 choices: []
 goal: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
@@ -13,4 +14,4 @@ goal: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   output: |-
     On branch master
     nothing to commit, working directory clean
-name: Commit tras commit
+name: Commit depois commit
