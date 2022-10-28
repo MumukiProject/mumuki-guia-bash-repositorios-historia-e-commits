@@ -6,21 +6,22 @@ editor: multiple_choice
 type: problem
 extra_visible: false
 language: text
+teacher_info: ''
 manual_evaluation: false
 choices:
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  value: Tres empanadas
+  value: Promessa sem jeito!
   checked: false
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  value: El código de un programa en Ruby
+  value: O código de um programa em Python
   checked: true
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  value: El código de un programa en Java
+  value: O código de um programa em Java
   checked: true
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  value: Un `txt` con una lista de compras
+  value: Um `txt` com uma lista de compras
   checked: true
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  value: Un video de los Simuladores
+  value: Um vídeo de 3 %
   checked: false
-name: No se vive sólo de HTML
+name: Não só de HTML se vive
