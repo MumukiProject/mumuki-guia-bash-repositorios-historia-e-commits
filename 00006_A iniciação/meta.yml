@@ -10,5 +10,5 @@ manual_evaluation: false
 choices: []
 goal: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   kind: query_passes
-  query: cd /home/mumuki/curriculum && git status
+  query: cd /home/mumuki/curriculos && git status
 name: A iniciação
