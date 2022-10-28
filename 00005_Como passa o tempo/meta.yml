@@ -1,0 +1,44 @@
+---
+locale: pt
+tags: []
+layout: input_bottom
+editor: 0
+type: interactive
+extra_visible: false
+teacher_info: ''
+manual_evaluation: false
+choices: []
+goal: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  kind: last_query_outputs
+  output: |
+    curriculo-v1.html
+    curriculo-v10.html
+    curriculo-v11.html
+    curriculo-v12.html
+    curriculo-v13.html
+    curriculo-v14.html
+    curriculo-v15.html
+    curriculo-v16.html
+    curriculo-v17.html
+    curriculo-v18.html
+    curriculo-v19.html
+    curriculo-v2.html
+    curriculo-v20.html
+    curriculo-v21.html
+    curriculo-v22.html
+    curriculo-v23.html
+    curriculo-v24.html
+    curriculo-v25.html
+    curriculo-v26.html
+    curriculo-v27.html
+    curriculo-v28.html
+    curriculo-v29.html
+    curriculo-v3.html
+    curriculo-v30.html
+    curriculo-v4.html
+    curriculo-v5.html
+    curriculo-v6.html
+    curriculo-v7.html
+    curriculo-v8.html
+    curriculo-v9.html
+name: Como passa o tempo

@@ -1,11 +1,13 @@
 ---
+locale: pt
 tags: []
 layout: input_bottom
-editor: code
+editor: 0
 type: interactive
 extra_visible: false
 manual_evaluation: false
 choices: []
-goal:
+goal: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   kind: query_passes
   query: cd /home/mumuki/pelitos && git log
+name: La página de la peluquería

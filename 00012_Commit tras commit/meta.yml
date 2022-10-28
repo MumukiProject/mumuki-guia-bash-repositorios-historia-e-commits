@@ -1,14 +1,16 @@
 ---
+locale: pt
 tags: []
 layout: input_bottom
-editor: code
+editor: 0
 type: interactive
 extra_visible: false
 manual_evaluation: false
 choices: []
-goal:
+goal: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   kind: query_outputs
   query: git status
   output: |-
     On branch master
     nothing to commit, working directory clean
+name: Commit tras commit
