@@ -1,1 +1,1 @@
-:warning: ¡Cuidado! Sólo vas a poder navegar entre versiones si tu repositorio está _limpio_: si hay cambios no confirmados mediante un `git commit`, `git checkout` va a fallar.   
+:warning: Cuidado! Você só poderá navegar entre as versões se o seu repositório estiver_limpio_: se houver alterações não confirmadas usando um `git commit`, `git checkout` ele vai falhar.  
