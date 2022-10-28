@@ -1,10 +1,9 @@
-Pero lo verdaderamente poderoso del control de versiones viene ahora: podemos siempre consultar cómo estaba nuestro repositorio en un momento anterior :mag:.  
+Mas a coisa realmente poderosa sobre o controle de versões vem agora: sempre podemos verificar como nosso repositório estava em um momento anterior :mag:.  
 
-Para ésto contamos con el comando `git checkout`, que nos permite mover entre versiones: 
+Para isso temos o comando `git checkout`, que nos permite mover entre as versões:
 
 ```bash
-$ git checkout HEAD~1
-
+git checkout HEAD~1
 ```
 
-> Copiá el comando anterior en la consola para ver cómo funciona. 
+> Copie o comando anterior no console para ver como funciona.
