@@ -22,6 +22,6 @@ choices:
   value: Um `txt` com uma lista de compras
   checked: true
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  value: Um vídeo de 3 %
+  value: Um vídeo da série 3 %
   checked: false
 name: Não só de HTML se vive
