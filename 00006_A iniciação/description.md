@@ -1,4 +1,4 @@
-_E agora, quem poderá nos ajudar? ¡`git`, o comando de versão!_
+_E agora, quem poderá nos ajudar? `git`, o controle de versões!_
 
 `git` é outro comando, um pouco mais complexo que os anteriores, que nos poupará muitas dores de cabeça. Vamos começar nosso currículo novamente, desta vez usando `git`, e em um diretório inicialmente vazio, que chamaremos de _repositório_:
 
