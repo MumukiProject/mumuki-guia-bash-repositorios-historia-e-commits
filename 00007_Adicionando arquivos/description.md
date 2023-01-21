@@ -1,5 +1,4 @@
-Agora estamos em condições de adicionar arquivos. Maaas cuidado! Não basta colocá-los no diretório, mas **você também precisa incluí-los explicitamente**. Vejamos um exemplo:
-
+Agora estamos em condições de adicionar arquivos. Maaas, cuidado! Não basta colocá-los no diretório, **você também precisa incluí-los explicitamente**. Vejamos um exemplo:
 
 ```bash
 # Estamos no diretório de um repositório...
