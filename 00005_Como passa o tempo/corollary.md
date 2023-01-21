@@ -30,6 +30,6 @@ Uff, isso é um monte de arquivos, certo?
 
 Observe também que não apenas temos muitas versões, mas cada versão compreende vários arquivos. Quando queremos gerar uma nova versão, quais arquivos devemos copiar?
 
-A verdade é que para gerenciar poucas versões e poucos arquivos, a estratégia acima funcionou por um tempo, mas já vemos suas limitações: é **muito** trabalhoso controlar nossas alterações copiando e colando arquivos.
+A verdade é que para lidar com algumas versões e alguns arquivos, a estratégia anterior funcionou por um tempo, mas já vemos suas limitações: é **muito** trabalhoso controlar nossas alterações copiando e colando arquivos.
 
-Gerenciar versões **deve ser fácil**. Vamos ver uma maneira melhor de fazer isso!
+Gerenciar versões **deveria ser fácil**. Vamos ver uma melhor maneira de fazer isso!
