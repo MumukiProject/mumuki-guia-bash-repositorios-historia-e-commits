@@ -1,30 +1,31 @@
 Ufa, são muitos arquivos, não é mesmo?
 
 <div 
-  class="mu-filebrowser" 
-  data-file="{
-    'foto-v1.jpg': '',
-    'foto-v2.jpg': '',
-    'foto-v3.jpg': '',
-    'estilos-v1.css': '',
-    'estilos-v2.css': '',
-    'estilos-v3.css': '',
-    'estilos-v4.css': '',
-    'estilos-v5.css': '',
-    'estilos-v6.css': '',
-    'curriculo-v1.html': '',
-    'curriculo-v2.html': '',
-    'curriculo-v3.html': '',
-    'curriculo-v4.html': '',
-    'curriculo-v5.html': '',
-    'curriculo-v6.html': '',
-    'curriculo-v7.html': '',
-    'curriculo-v8.html': '',
-    'curriculo-v9.html': '',
-    'curriculo-v10.html': '',
-    'curriculo-v11.html': '',
-    'curriculo-v12.html': '',
-  }">
+  class="mu-file-browser" 
+  data-can-browse="false"
+  data-file='{
+    "foto-v1.jpg": "",
+    "foto-v2.jpg": "",
+    "foto-v3.jpg": "",
+    "estilos-v1.css": "",
+    "estilos-v2.css": "",
+    "estilos-v3.css": "",
+    "estilos-v4.css": "",
+    "estilos-v5.css": "",
+    "estilos-v6.css": "",
+    "curriculo-v1.html": "",
+    "curriculo-v2.html": "",
+    "curriculo-v3.html": "",
+    "curriculo-v4.html": "",
+    "curriculo-v5.html": "",
+    "curriculo-v6.html": "",
+    "curriculo-v7.html": "",
+    "curriculo-v8.html": "",
+    "curriculo-v9.html": "",
+    "curriculo-v10.html": "",
+    "curriculo-v11.html": "",
+    "curriculo-v12.html": ""
+  }'>
 </div>
 
 
