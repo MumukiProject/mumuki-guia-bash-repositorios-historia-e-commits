@@ -13,5 +13,5 @@ goal: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   query: git status
   output: |-
     On branch master
-    nothing to commit, working directory clean
+    nothing to commit, working tree clean
 name: Commit depois commit
