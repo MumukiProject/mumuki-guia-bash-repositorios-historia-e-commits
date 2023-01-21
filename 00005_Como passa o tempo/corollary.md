@@ -1,4 +1,4 @@
-Uff, isso é um monte de arquivos, certo? 
+Ufa, são muitos arquivos, não é mesmo?
 
 <div 
   class="mu-filebrowser" 
