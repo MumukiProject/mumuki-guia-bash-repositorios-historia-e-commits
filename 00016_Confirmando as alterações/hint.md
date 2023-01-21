@@ -1,4 +1,4 @@
-Se você está um pouco perdido, vamos relembrar o que fizemos no exercício anterior:
+Se você se perdeu, vamos relembrar o que fizemos no exercício anterior:
 
 ```bash
 # Criamos um novo repositório...
