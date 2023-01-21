@@ -10,7 +10,7 @@ manual_evaluation: false
 choices: []
 goal: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   kind: last_query_outputs
-  output: |
+  output: |-
     curriculo-v1.html
     curriculo-v10.html
     curriculo-v11.html
