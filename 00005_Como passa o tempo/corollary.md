@@ -1,4 +1,4 @@
-¿Uff, son muchos archivos no? 
+Uff, isso é um monte de arquivos, certo? 
 
 <div 
   class="mu-filebrowser" 
@@ -12,24 +12,24 @@
     'estilos-v4.css': '',
     'estilos-v5.css': '',
     'estilos-v6.css': '',
-    'curriculum-v1.html': '',
-    'curriculum-v2.html': '',
-    'curriculum-v3.html': '',
-    'curriculum-v4.html': '',
-    'curriculum-v5.html': '',
-    'curriculum-v6.html': '',
-    'curriculum-v7.html': '',
-    'curriculum-v8.html': '',
-    'curriculum-v9.html': '',
-    'curriculum-v10.html': '',
-    'curriculum-v11.html': '',
-    'curriculum-v12.html': '',
-    
+    'curriculo-v1.html': '',
+    'curriculo-v2.html': '',
+    'curriculo-v3.html': '',
+    'curriculo-v4.html': '',
+    'curriculo-v5.html': '',
+    'curriculo-v6.html': '',
+    'curriculo-v7.html': '',
+    'curriculo-v8.html': '',
+    'curriculo-v9.html': '',
+    'curriculo-v10.html': '',
+    'curriculo-v11.html': '',
+    'curriculo-v12.html': '',
   }">
 </div>
 
-Notá también que no sólo tenemos muchas versiones, sino que cada versión comprende varios archivos. Cuando queramos generar una nueva versión, ¿qué archivos deberemos copiar? 
 
-La verdad es que para menejar unas pocas versiones y unos pocos archivos, la estrategia anterior funcionó un tiempo, pero ya vemos sus limitaciones: es **muy** engorroso controlar nuestros cambios copiando y pegando archivos. 
+Observe também que não apenas temos muitas versões, mas cada versão compreende vários arquivos. Quando queremos gerar uma nova versão, quais arquivos devemos copiar?
 
-Manejar versiones **debería ser fácil**. ¡Veamos una mejor forma de hacerlo! 
+A verdade é que para gerenciar poucas versões e poucos arquivos, a estratégia acima funcionou por um tempo, mas já vemos suas limitações: é **muito** trabalhoso controlar nossas alterações copiando e colando arquivos.
+
+Gerenciar versões **deve ser fácil**. Vamos ver uma maneira melhor de fazer isso!
