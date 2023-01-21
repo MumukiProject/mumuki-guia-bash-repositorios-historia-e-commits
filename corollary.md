@@ -1,1 +1,1 @@
-Paraben! :clap:
+Parabéns! :clap:
