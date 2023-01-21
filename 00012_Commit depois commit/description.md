@@ -8,4 +8,4 @@ Mas depois as coisas ficam mais fáceis. Por exemplo...
 E sempre no final, quando tudo estiver pronto para confirmar as alterações e criar uma nova versão, fazemos `git commit -m "uma mensagem descritiva"`.
 
 
-> Vejamos se ficou claro: no repositório localizado em `/home/mumuki/autobigrafia` acabamos de criar um novo arquivo (`capitulo2.txt`) e também modificamos o `capitulo1.txt`. Crie uma nova versão chamada  _Iniciando segundo capítulo_.
+> Vejamos se ficou claro: no repositório localizado em `/home/mumuki/autobigrafia` acabamos de criar um novo arquivo (`capitulo2.txt`) e também modificamos o `capitulo1.txt`. Crie uma nova versão chamada  _Começando o segundo capítulo_.
