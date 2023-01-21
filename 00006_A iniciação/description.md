@@ -14,6 +14,6 @@ $ git init
 Initialized empty Git repository in /home/mumuki/curriculo/.git/
 ```
 
-Este processo é necessário para informar a `git` que `/home/mumuki/curriculo/` será um repositório que  permitirá guardar versões.
+Este processo é necessário para informar ao `git` que `/home/mumuki/curriculo/` será o repositório que vamos guardar as versões.
 
 > Vejamos se ficou claro: repita estes 3 passos no terminal
